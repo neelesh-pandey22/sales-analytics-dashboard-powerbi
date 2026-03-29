@@ -30,7 +30,6 @@ sales-dashboard-project/
 │   └── Sales_Insights_Dashboard.pbix
 │
 ├── README.md
-└── .gitignore
 ```
 
 ---
@@ -118,7 +117,7 @@ Relationship:
 
 If you have any feedback or suggestions, feel free to connect!
 
-![LinkedIn](www.linkedin.com/in/neelesh-kumar-pandey)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/neelesh-kumar-pandey)
 ---
 
 ⭐ If you like this project, consider giving it a star!
